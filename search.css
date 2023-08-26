@@ -1,0 +1,38 @@
+.logo
+{
+    text-align: center;
+    margin-top: 3rem;
+}
+
+.search-bar
+{
+    margin-top: 2rem;
+    text-align: left;
+    padding: 10px;
+    width: 300px;
+    border-radius: 5px;
+    border-width: 2px;
+   
+}
+
+.main_box
+{
+    margin-bottom: 10px;
+}
+
+.result_title
+{
+    font-size: 22px;
+}
+
+.result_url
+{
+    color: green;
+    text-decoration: none;
+}
+
+.para
+{
+    font-size: 20px;
+    color: #444444;
+}
